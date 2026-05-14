@@ -1,0 +1,201 @@
+split,SUBJECT_ID,SOURCE_SUBJECT,label,DIAGNOSIS,DIAGNOSIS_SUBTYPE,useful_slices,num_images
+train,OAS31123_ses-d0078,OAS31123,dementia,AD Dementia,CDR-2,126,100
+train,OAS30092_ses-d0636,OAS30092,normal,Cognitively normal,CDR-0,130,100
+train,OAS30397_ses-d0043,OAS30397,dementia,AD Dementia,CDR-1,121,100
+train,OAS31131_ses-d0101,OAS31131,normal,Cognitively normal,CDR-0,129,100
+train,OAS30174_ses-d0582_run-01,OAS30174,normal,Cognitively normal,CDR-0,132,100
+train,OAS30500_ses-d0093_run-01,OAS30500,normal,Cognitively normal,CDR-0,131,100
+train,OAS30548_ses-d0447,OAS30548,dementia,AD Dementia,CDR-1,127,100
+train,OAS31163_ses-d0036_run-01,OAS31163,dementia,AD dem w/CVD not contrib,CDR-1,119,100
+train,OAS30613_ses-d0042_run-01,OAS30613,dementia,AD Dementia,CDR-1,132,100
+train,OAS30172_ses-d0028_run-01,OAS30172,dementia,DLBD- primary,CDR-1,125,100
+train,OAS30358_ses-d0367_run-01,OAS30358,dementia,AD Dementia,CDR-1,120,100
+train,OAS30869_ses-d1691,OAS30869,dementia,AD dem Language dysf prior,CDR-1,126,100
+train,OAS30073_ses-d1587_run-01,OAS30073,normal,Cognitively normal,CDR-0,135,100
+train,OAS30534_ses-d0474_run-01,OAS30534,normal,Cognitively normal,CDR-0,129,100
+train,OAS30512_ses-d0353_run-01,OAS30512,normal,Cognitively normal,CDR-0,130,100
+train,OAS30202_ses-d0175_run-01,OAS30202,dementia,AD Dementia,CDR-2,119,100
+train,OAS31112_ses-d0276_run-01,OAS31112,dementia,DLBD- primary,CDR-1,127,100
+train,OAS30957_ses-d0030_run-01,OAS30957,dementia,AD dem Language dysf with,CDR-1,129,100
+train,OAS30753_ses-d0035_run-01,OAS30753,dementia,"DLBD, primary",CDR-1,121,100
+train,OAS30006_ses-d0166,OAS30006,normal,Cognitively normal,CDR-0,134,100
+train,OAS31152_ses-d0092,OAS31152,dementia,AD dem Language dysf prior,CDR-1,128,100
+train,OAS31030_ses-d0031,OAS31030,dementia,AD Dementia,CDR-1,126,100
+train,OAS30443_ses-d1480,OAS30443,normal,Cognitively normal,CDR-0,129,100
+train,OAS30584_ses-d0096,OAS30584,normal,Cognitively normal,CDR-0,134,100
+train,OAS30364_ses-d0110,OAS30364,normal,Cognitively normal,CDR-0,141,100
+train,OAS30575_ses-d0115_run-01,OAS30575,dementia,DLBD- primary,CDR-3,134,100
+train,OAS30878_ses-d2556,OAS30878,dementia,AD dem w/depresss- not contribut,CDR-1,127,100
+train,OAS30994_ses-d0070,OAS30994,dementia,AD Dementia,CDR-2,124,100
+train,OAS30386_ses-d0055,OAS30386,normal,Cognitively normal,CDR-0,143,100
+train,OAS30004_ses-d2229_run-01,OAS30004,normal,Cognitively normal,CDR-0,129,100
+train,OAS30810_ses-d1351,OAS30810,normal,Cognitively normal,CDR-0,132,100
+train,OAS30194_ses-d6605_run-01,OAS30194,normal,Cognitively normal,CDR-0,131,100
+train,OAS31133_ses-d0000_run-01,OAS31133,normal,Cognitively normal,CDR-0,132,100
+train,OAS30740_ses-d0069_run-01,OAS30740,dementia,DLBD- primary,CDR-1,129,100
+train,OAS31036_ses-d0056_run-01,OAS31036,normal,Cognitively normal,CDR-0,129,100
+train,OAS30830_ses-d1569,OAS30830,dementia,AD Dementia,CDR-1,136,100
+train,OAS30999_ses-d0153_run-01,OAS30999,dementia,AD dem w/depresss- not contribut,CDR-1,123,100
+train,OAS30413_ses-d0044,OAS30413,normal,Cognitively normal,CDR-0,130,100
+train,OAS30583_ses-d0085_run-01,OAS30583,dementia,Vascular Demt- primary,CDR-1,125,100
+train,OAS30111_ses-d0385_run-01,OAS30111,dementia,AD dem w/PDI after AD dem contribut,CDR-1,117,100
+train,OAS30421_ses-d2605_run-01,OAS30421,normal,Cognitively normal,CDR-0,136,100
+train,OAS30905_ses-d0154_run-01,OAS30905,normal,Cognitively normal,CDR-0,131,100
+train,OAS31039_ses-d0001,OAS31039,normal,Cognitively normal,CDR-0,130,100
+train,OAS30723_ses-d0042_run-01,OAS30723,normal,Cognitively normal,CDR-0,131,100
+train,OAS31004_ses-d0000,OAS31004,dementia,AD Dementia,CDR-1,132,100
+train,OAS30354_ses-d0056_run-01,OAS30354,dementia,DLBD- secondary,CDR-1,125,100
+train,OAS30065_ses-d0548,OAS30065,normal,Cognitively normal,CDR-0,129,100
+train,OAS30540_ses-d0084,OAS30540,normal,Cognitively normal,CDR-0,138,100
+train,OAS30521_ses-d0979_run-01,OAS30521,dementia,AD Dementia,CDR-1,117,100
+train,OAS30652_ses-d0778_run-01,OAS30652,normal,Cognitively normal,CDR-0,133,100
+train,OAS30702_ses-d0084_run-01,OAS30702,dementia,AD Dementia,CDR-1,124,100
+train,OAS30637_ses-d0079,OAS30637,normal,Cognitively normal,CDR-0,134,100
+train,OAS30804_ses-d0086,OAS30804,dementia,AD Dementia,CDR-1,137,100
+train,OAS30737_ses-d0035_run-01,OAS30737,normal,Cognitively normal,CDR-0,132,100
+train,OAS30316_ses-d0018,OAS30316,dementia,AD Dementia,CDR-1,129,100
+train,OAS30114_ses-d0086,OAS30114,dementia,AD Dementia,CDR-2,126,100
+train,OAS30762_ses-d0043,OAS30762,normal,Cognitively normal,CDR-0,135,100
+train,OAS30394_ses-d0039,OAS30394,dementia,AD dem w/depresss- contribut,CDR-1,120,100
+train,OAS30654_ses-d0079_run-01,OAS30654,dementia,AD Dementia,CDR-3,119,100
+train,OAS31063_ses-d0917_run-01,OAS31063,dementia,AD Dementia,CDR-1,129,100
+train,OAS31110_ses-d0031_run-01,OAS31110,normal,Cognitively normal,CDR-0,133,100
+train,OAS30182_ses-d1397,OAS30182,normal,Cognitively normal,CDR-0,131,100
+train,OAS30404_ses-d0104,OAS30404,dementia,AD Dementia,CDR-1,122,100
+train,OAS30884_ses-d2400_run-01,OAS30884,dementia,AD Dementia,CDR-1,126,100
+train,OAS30100_ses-d0158,OAS30100,dementia,AD Dementia,CDR-2,119,100
+train,OAS30682_ses-d0465_run-01,OAS30682,dementia,AD Dementia,CDR-1,126,100
+train,OAS30757_ses-d2279,OAS30757,normal,Cognitively normal,CDR-0,137,100
+train,OAS30130_ses-d0025_run-01,OAS30130,dementia,DLBD- primary,CDR-1,121,100
+train,OAS30988_ses-d0033,OAS30988,normal,Cognitively normal,CDR-0,134,100
+train,OAS30239_ses-d0175_run-01,OAS30239,dementia,AD Dementia,CDR-1,120,100
+train,OAS30954_ses-d0182_run-01,OAS30954,dementia,AD Dementia,CDR-1,118,100
+train,OAS30504_ses-d0000_run-01,OAS30504,dementia,AD Dementia,CDR-1,131,100
+train,OAS30249_ses-d3431,OAS30249,normal,Cognitively normal,CDR-0,134,100
+train,OAS31020_ses-d0083,OAS31020,normal,Cognitively normal,CDR-0,132,100
+train,OAS30271_ses-d0004_run-01,OAS30271,dementia,AD dem Language dysf after,CDR-2,122,100
+train,OAS30124_ses-d0046_run-01,OAS30124,dementia,AD Dementia,CDR-1,118,100
+train,OAS31107_ses-d0912,OAS31107,normal,Cognitively normal,CDR-0,132,100
+train,OAS30388_ses-d0073_run-01,OAS30388,dementia,AD Dementia,CDR-2,123,100
+train,OAS30754_ses-d1341,OAS30754,normal,Cognitively normal,CDR-0,131,100
+train,OAS30921_ses-d0382_run-01,OAS30921,normal,Cognitively normal,CDR-0,129,100
+train,OAS30078_ses-d0210_run-01,OAS30078,dementia,AD Dementia,CDR-1,123,100
+train,OAS30926_ses-d0092,OAS30926,dementia,AD Dementia,CDR-1,128,100
+train,OAS30817_ses-d0236_run-01,OAS30817,normal,Cognitively normal,CDR-0,131,100
+train,OAS30335_ses-d0109,OAS30335,normal,Cognitively normal,CDR-0,130,100
+train,OAS30841_ses-d0348_run-01,OAS30841,normal,Cognitively normal,CDR-0,132,100
+train,OAS30238_ses-d0037,OAS30238,dementia,AD dem Language dysf after,CDR-1,126,100
+train,OAS30948_ses-d0076,OAS30948,dementia,AD Dementia,CDR-3,117,100
+train,OAS30766_ses-d0147,OAS30766,normal,Cognitively normal,CDR-0,131,100
+train,OAS31169_ses-d0620_run-01,OAS31169,dementia,AD Dementia,CDR-3,130,100
+train,OAS30268_ses-d0096_run-01,OAS30268,normal,Cognitively normal,CDR-0,130,100
+train,OAS30734_ses-d0097_run-01,OAS30734,dementia,AD Dementia,CDR-1,126,100
+train,OAS30122_ses-d0136,OAS30122,normal,Cognitively normal,CDR-0,139,100
+train,OAS30902_ses-d0015_run-01,OAS30902,dementia,AD dem w/PDI after AD dem not contrib,CDR-2,128,100
+train,OAS30806_ses-d0026_run-01,OAS30806,normal,Cognitively normal,CDR-0,132,100
+train,OAS30672_ses-d0966,OAS30672,dementia,AD Dementia,CDR-1,127,100
+train,OAS30145_ses-d3506_run-01,OAS30145,normal,Cognitively normal,CDR-0,130,100
+train,OAS30204_ses-d0020,OAS30204,normal,Cognitively normal,CDR-0,131,100
+train,OAS30431_ses-d0113,OAS30431,normal,Cognitively normal,CDR-0,130,100
+train,OAS30495_ses-d0052,OAS30495,dementia,AD dem Language dysf after,CDR-1,120,100
+train,OAS30282_ses-d0040,OAS30282,dementia,Dementia/PD- primary,CDR-3,119,100
+train,OAS30866_ses-d0033,OAS30866,dementia,AD Dementia,CDR-1,120,100
+train,OAS30695_ses-d0104,OAS30695,normal,Cognitively normal,CDR-0,131,100
+train,OAS31170_ses-d2410,OAS31170,dementia,AD Dementia,CDR-1,118,100
+train,OAS30342_ses-d0001,OAS30342,dementia,AD Dementia,CDR-2,141,100
+train,OAS30449_ses-d0000_run-01,OAS30449,normal,Cognitively normal,CDR-0,130,100
+train,OAS30616_ses-d0199,OAS30616,dementia,AD dem w/depresss- contribut,CDR-1,119,100
+train,OAS30187_ses-d0070,OAS30187,normal,Cognitively normal,CDR-0,132,100
+train,OAS30582_ses-d0153_run-01,OAS30582,dementia,AD dem w/depresss- not contribut,CDR-1,123,100
+train,OAS30781_ses-d0971,OAS30781,normal,Cognitively normal,CDR-0,132,100
+train,OAS31135_ses-d0498_run-01,OAS31135,dementia,AD Dementia,CDR-1,128,100
+train,OAS30910_ses-d0090,OAS30910,normal,Cognitively normal,CDR-0,133,100
+train,OAS30002_ses-d0371,OAS30002,normal,Cognitively normal,CDR-0,134,100
+train,OAS30953_ses-d0103,OAS30953,dementia,AD Dementia,CDR-1,128,100
+train,OAS30064_ses-d0687_run-01,OAS30064,dementia,AD dem w/PDI after AD dem not contrib,CDR-2,124,100
+train,OAS30315_ses-d0124,OAS30315,dementia,AD Dementia,CDR-1,125,100
+train,OAS30585_ses-d0065,OAS30585,normal,No dementia,CDR-0,130,100
+train,OAS30930_ses-d0414_run-01,OAS30930,dementia,DLBD- primary,CDR-1,129,100
+train,OAS30827_ses-d1875,OAS30827,dementia,AD Dementia,CDR-1,128,100
+train,OAS30440_ses-d0163,OAS30440,dementia,AD Dementia,CDR-2,117,100
+train,OAS30265_ses-d0192_run-01,OAS30265,dementia,AD Dementia,CDR-2,131,100
+train,OAS30245_ses-d0058,OAS30245,normal,Cognitively normal,CDR-0,136,100
+train,OAS31055_ses-d0074_run-01,OAS31055,dementia,AD dem w/CVD contribut,CDR-1,125,100
+train,OAS30775_ses-d0183,OAS30775,normal,Cognitively normal,CDR-0,134,100
+train,OAS30877_ses-d0362,OAS30877,normal,Cognitively normal,CDR-0,135,100
+train,OAS30724_ses-d3115_run-01,OAS30724,normal,Cognitively normal,CDR-0,135,100
+train,OAS30924_ses-d0069,OAS30924,normal,Cognitively normal,CDR-0,130,100
+train,OAS30424_ses-d0095_run-01,OAS30424,dementia,AD dem Language dysf with,CDR-1,121,100
+train,OAS30496_ses-d0065,OAS30496,normal,Cognitively normal,CDR-0,131,100
+train,OAS30401_ses-d0106_run-01,OAS30401,dementia,AD Dementia,CDR-2,126,100
+train,OAS30113_ses-d3502,OAS30113,normal,Cognitively normal,CDR-0,137,100
+train,OAS30087_ses-d0260_run-01,OAS30087,dementia,AD Dementia,CDR-1,124,100
+train,OAS30911_ses-d0099_run-01,OAS30911,dementia,DLBD- primary,CDR-2,123,100
+train,OAS30603_ses-d0811,OAS30603,normal,Cognitively normal,CDR-0,133,100
+train,OAS31071_ses-d0068,OAS31071,normal,Cognitively normal,CDR-0,134,100
+train,OAS30881_ses-d0152,OAS30881,normal,Cognitively normal,CDR-0,132,100
+train,OAS31156_ses-d0001_run-01,OAS31156,dementia,Dementia/PD- primary,CDR-2,129,100
+train,OAS30823_ses-d0055_run-01,OAS30823,normal,Cognitively normal,CDR-0,133,100
+train,OAS30622_ses-d0179,OAS30622,dementia,AD dem distrubed social- prior,CDR-1,122,100
+train,OAS30713_ses-d1692,OAS30713,normal,Cognitively normal,CDR-0,137,100
+train,OAS30615_ses-d0191,OAS30615,normal,Cognitively normal,CDR-0,135,100
+train,OAS30281_ses-d0042,OAS30281,dementia,AD Dementia,CDR-1,120,100
+train,OAS30349_ses-d0699_run-01,OAS30349,normal,Cognitively normal,CDR-0,130,100
+train,OAS31092_ses-d3113,OAS31092,dementia,Dementia/PD- primary,CDR-1,133,100
+train,OAS31012_ses-d2449,OAS31012,normal,Cognitively normal,CDR-0,130,100
+train,OAS30751_ses-d0063,OAS30751,normal,Cognitively normal,CDR-0,134,100
+train,OAS30671_ses-d0267_run-01,OAS30671,normal,Cognitively normal,CDR-0,132,100
+train,OAS30229_ses-d0101,OAS30229,normal,Cognitively normal,CDR-0,132,100
+train,OAS30677_ses-d0000,OAS30677,normal,Cognitively normal,CDR-0,129,100
+train,OAS30917_ses-d0053,OAS30917,normal,Cognitively normal,CDR-0,133,100
+train,OAS30209_ses-d0609_run-01,OAS30209,dementia,AD Dementia,CDR-1,125,100
+train,OAS30286_ses-d0047,OAS30286,dementia,AD Dementia,CDR-1,124,100
+train,OAS30610_ses-d0079_run-01,OAS30610,dementia,AD Dementia,CDR-1,123,100
+train,OAS30099_ses-d0032,OAS30099,normal,Cognitively normal,CDR-0,132,100
+train,OAS30318_ses-d2975,OAS30318,normal,Cognitively normal,CDR-0,129,100
+train,OAS30287_ses-d0890,OAS30287,dementia,AD Dementia,CDR-1,133,100
+train,OAS30732_ses-d0074,OAS30732,dementia,AD Dementia,CDR-2,126,100
+train,OAS30418_ses-d0069_run-01,OAS30418,normal,Cognitively normal,CDR-0,132,100
+train,OAS31009_ses-d1049_run-01,OAS31009,normal,Cognitively normal,CDR-0,130,100
+train,OAS30086_ses-d0000_run-01,OAS30086,normal,Cognitively normal,CDR-0,139,100
+train,OAS30374_ses-d0084,OAS30374,normal,Cognitively normal,CDR-0,131,100
+val,OAS30849_ses-d0151,OAS30849,dementia,AD dem Language dysf after,CDR-1,126,100
+val,OAS30825_ses-d4885_run-01,OAS30825,normal,Cognitively normal,CDR-0,140,100
+val,OAS30942_ses-d0111_run-01,OAS30942,normal,Cognitively normal,CDR-0,130,100
+val,OAS30797_ses-d1375_run-01,OAS30797,normal,Cognitively normal,CDR-0,134,100
+val,OAS30518_ses-d0089,OAS30518,dementia,DLBD- primary,CDR-1,130,100
+val,OAS30498_ses-d0132,OAS30498,normal,Cognitively normal,CDR-0,132,100
+val,OAS30773_ses-d0044,OAS30773,dementia,AD Dementia,CDR-2,123,100
+val,OAS31011_ses-d0089,OAS31011,normal,Cognitively normal,CDR-0,135,100
+val,OAS30790_ses-d1461_run-01,OAS30790,normal,Cognitively normal,CDR-0,134,100
+val,OAS31044_ses-d0827,OAS31044,dementia,DLBD- primary,CDR-1,128,100
+val,OAS30864_ses-d0603,OAS30864,normal,Cognitively normal,CDR-0,132,100
+val,OAS30625_ses-d0033,OAS30625,normal,Cognitively normal,CDR-0,130,100
+val,OAS30031_ses-d0427_run-01,OAS30031,dementia,AD Dementia,CDR-1,128,100
+val,OAS30742_ses-d1932_run-01,OAS30742,normal,Cognitively normal,CDR-0,138,100
+val,OAS30541_ses-d1935,OAS30541,dementia,AD Dementia,CDR-1,125,100
+val,OAS30914_ses-d0108_run-01,OAS30914,dementia,AD Dementia,CDR-1,125,100
+val,OAS30348_ses-d0077,OAS30348,normal,Cognitively normal,CDR-0,130,100
+val,OAS31060_ses-d0083,OAS31060,dementia,AD Dementia,CDR-1,126,100
+val,OAS30802_ses-d0132,OAS30802,dementia,AD Dementia,CDR-2,124,100
+val,OAS30250_ses-d0389_run-01,OAS30250,normal,Cognitively normal,CDR-0,133,100
+val,OAS30098_ses-d0036,OAS30098,dementia,AD Dementia,CDR-2,120,100
+val,OAS31058_ses-d2233_run-01,OAS31058,normal,Cognitively normal,CDR-0,133,100
+val,OAS31001_ses-d0064,OAS31001,normal,Cognitively normal,CDR-0,133,100
+val,OAS30985_ses-d0084_run-01,OAS30985,normal,Cognitively normal,CDR-0,130,100
+val,OAS31111_ses-d3618,OAS31111,normal,Cognitively normal,CDR-0,130,100
+val,OAS30950_ses-d0063,OAS30950,normal,Cognitively normal,CDR-0,133,100
+val,OAS31087_ses-d1461,OAS31087,normal,Cognitively normal,CDR-0,129,100
+val,OAS30158_ses-d2467_run-01,OAS30158,dementia,AD Dementia,CDR-1,124,100
+val,OAS31006_ses-d0120,OAS31006,normal,Cognitively normal,CDR-0,135,100
+val,OAS30344_ses-d0049_run-01,OAS30344,dementia,AD dem w/CVD not contrib,CDR-1,129,100
+val,OAS30966_ses-d0189_run-01,OAS30966,normal,Cognitively normal,CDR-0,129,100
+val,OAS30720_ses-d2715,OAS30720,dementia,Non AD dem- Other primary,CDR-1,135,100
+val,OAS30983_ses-d0265_run-01,OAS30983,dementia,AD dem Language dysf with,CDR-1,121,100
+val,OAS30533_ses-d0087_run-01,OAS30533,dementia,AD Dementia,CDR-1,133,100
+val,OAS30899_ses-d0072_run-01,OAS30899,dementia,AD Dementia,CDR-1,132,100
+val,OAS30373_ses-d0048_run-01,OAS30373,dementia,AD Dementia,CDR-1,130,100
+val,OAS30150_ses-d0100_run-01,OAS30150,dementia,AD Dementia,CDR-1,120,100
+val,OAS30892_ses-d0029,OAS30892,dementia,AD Dementia,CDR-1,132,100
+val,OAS31114_ses-d0695_run-01,OAS31114,normal,Cognitively normal,CDR-0,133,100
+val,OAS31067_ses-d0037,OAS31067,dementia,AD Dementia,CDR-1,118,100
